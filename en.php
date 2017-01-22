@@ -120,7 +120,7 @@ $_MODULE['<{paypal}default-bootstrap>back_office_78ba94e61abed0cbb6349b37ec9ed59
 $_MODULE['<{paypal}default-bootstrap>back_office_5b0e8271bd4b23a6bd7a7f49725ed926'] = 'Process payments on your online shop';
 $_MODULE['<{paypal}default-bootstrap>back_office_b4e69ef9df8f20b984309ee73f78953b'] = 'Communicate your PayPal identification info to PrestaShop';
 $_MODULE['<{paypal}default-bootstrap>back_office_2ffe0ef69fd047d0884f98faa52c1bd3'] = 'Get my PayPal identification info';
-$_MODULE['<{paypal}default-bootstrap>back_office_36461ebc9ebcd269f3909fa49a4b0a57'] = 'fter clicking on the “Get my PayPal identification info” button, enter your login and password in the pop up, copy your PayPal identification info from the pop up and paste them is the below fields.';
+$_MODULE['<{paypal}default-bootstrap>back_office_36461ebc9ebcd269f3909fa49a4b0a57'] = 'After clicking on the “Get my PayPal identification info” button, enter your login and password in the pop up, copy your PayPal identification info from the pop up and paste them is the below fields.';
 $_MODULE['<{paypal}default-bootstrap>back_office_266ba5df48aed68af0cce5f735035291'] = 'API username';
 $_MODULE['<{paypal}default-bootstrap>back_office_37e31370e4ab230ff6fba12cc6390aff'] = 'API password';
 $_MODULE['<{paypal}default-bootstrap>back_office_195ca49498f0b30d3a8967eff22fa9b3'] = 'API signature';
